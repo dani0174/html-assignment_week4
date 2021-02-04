@@ -1,2 +1,2 @@
 # html-assignment
-Week 3 HTML Semantics Assignment
+Week 4 Assignment - Simple HTML Website
